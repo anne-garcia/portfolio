@@ -51,16 +51,16 @@ function emailMessage() {
     alert ("What do you call someone who can talk to the mail? A parceltongue.");
 }
 
-function ponyMessage() {
-    alert ("What did the mother horse say to her foal? It's pasture bed time!");
+function illustratorMessage() {
+    alert ("What do you call an illustrator with criminal history? Sketchy!");
 }
 
-function ghibliMessage() {
-    alert ("These Studio Ghibli movies have great redemption arcs. Its like the characters went zero Chihiro.");
+function logoMessage() {
+    alert ("If the letters fall off your company's logo... ...maybe it's a bad sign.");
 }
 
-function waffleMessage() {
-    alert ("What did Sigmund Freud say when his patient wouldn’t unhand his waffle? 'Leggo my ego!'");
+function podcastMessage() {
+    alert ("What do you call a Monk with a podcast? An Air Friar.");
 }
 
 //MouseOver Event
